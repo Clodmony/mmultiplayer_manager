@@ -11,7 +11,7 @@ This PowerShell script automates the process of downloading and managing the Mir
 3. Run the script:
 
    ```powershell
-   .\Mirror'sEdgeMultiplayerLauncher.ps1
+   .\ME_MP-Launcher.ps1
 
 ## **WARNING: Use at Your Own Risk**
 
