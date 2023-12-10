@@ -4,14 +4,16 @@ This PowerShell script automates the process of downloading and managing the Mir
 
 ## Usage
 
-1. Open PowerShell as an administrator.
+1. Open PowerShell or run it directly with right click.
 
 2. Navigate to the directory where you saved the script.
 
-3. Run the script:
+3. Run the script: (It will only ask for admin if it needs to download the .exe or if an old version is present.)
 
    ```powershell
    .\ME_MP-Launcher.ps1
+
+
 
 ## **WARNING: Use at Your Own Risk**
 
